@@ -1,6 +1,6 @@
 ---
 title: Next.js Pages
-date: 2021/3/18
+date: 2024/1/5
 description: Learn more about Next.js pages.
 tag: web development
 author: James Kuria Chege
