@@ -5,7 +5,7 @@ export default function Document() {
     title: 'James Kuria Chege Peronal Portfolio Website',
     description:
       'My name is James Kuria Chege and I am a software engineer who enjoys building tech solutions for businesses and individuals. Check out my portfolio for more information about me and my work. Hire me for your next project and let me help you bring your ideas to life',
-    image: 'https://assets.vercel.com/image/upload/q_auto/front/vercel/dps.png'
+    image: 'https://nickjames.co.ke/kc-logo-light.png'
   }
 
   return (
